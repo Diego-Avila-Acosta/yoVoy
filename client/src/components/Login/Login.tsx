@@ -70,7 +70,7 @@ const Login = () => {
         setLocalLoading(false);
         google?.accounts?.id?.initialize({
           client_id:
-            '210425083362-pkn3890s07pe9r7f0l2s1ev492j4hh13.apps.googleusercontent.com',
+            '698667221476-0q6qimuhupnftnmk5bkgbb3nu4d9u9kl.apps.googleusercontent.com',
           callback: handleCallbackResponse,
         });
   
