@@ -13,7 +13,7 @@ const Card = ({ event }: Props) => {
 		<React.Fragment>
 			<Link className='Card_a' to={`/events/${event.id}`}>
 				<div className='Card_bg'>
-					<img  src={event.background_image} alt={event.name} />
+					<img  src={event.background_image} alt="https://www.bu.edu/globalprograms/files/2015/05/banner-placeholder.png" />
 					<div className='Card_bg_li'>
 						{/* <h4>{event.name}</h4> */}
 						<a href="#">Más Informacíon</a>
