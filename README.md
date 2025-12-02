@@ -72,7 +72,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://github.com/pablopelardas/yoVoy
+  git clone https://github.com/yoVoy-pf/yoVoy
 ```
 
 Go to the project directory
